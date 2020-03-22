@@ -25021,7 +25021,7 @@ MCP2551
 <label x="139.7" y="35.56" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="N$16" class="1">
+<net name="R_NO" class="1">
 <segment>
 <pinref part="U$100" gate="G$1" pin="3"/>
 <wire x1="198.12" y1="76.2" x2="203.2" y2="76.2" width="0.1524" layer="91"/>
@@ -25029,16 +25029,17 @@ MCP2551
 <wire x1="203.2" y1="88.9" x2="228.6" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="K100" gate="G$1" pin="3"/>
 <wire x1="228.6" y1="88.9" x2="228.6" y2="83.82" width="0.1524" layer="91"/>
+<label x="203.2" y="88.9" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="N$17" class="1">
+<net name="R_C" class="1">
 <segment>
 <pinref part="K100" gate="G$1" pin="1"/>
 <pinref part="U$100" gate="G$1" pin="2"/>
 <wire x1="218.44" y1="73.66" x2="198.12" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$18" class="0">
+<net name="R_NC" class="0">
 <segment>
 <pinref part="U$100" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="71.12" x2="203.2" y2="71.12" width="0.1524" layer="91"/>
@@ -25046,6 +25047,7 @@ MCP2551
 <pinref part="K100" gate="G$1" pin="4"/>
 <wire x1="203.2" y1="60.96" x2="228.6" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="228.6" y1="60.96" x2="228.6" y2="63.5" width="0.1524" layer="91"/>
+<label x="203.2" y="60.96" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$20" class="0">
@@ -26308,7 +26310,7 @@ A5</text>
 <wire x1="114.3" y1="152.4" x2="114.3" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$22" class="0">
+<net name="SDA_P" class="0">
 <segment>
 <pinref part="K103" gate="G$1" pin="3"/>
 <pinref part="R8" gate="G$1" pin="2"/>
@@ -26350,7 +26352,7 @@ A5</text>
 <wire x1="137.16" y1="160.02" x2="157.48" y2="160.02" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$29" class="0">
+<net name="SCL_P" class="0">
 <segment>
 <pinref part="R13" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="149.86" x2="53.34" y2="149.86" width="0.1524" layer="91"/>
@@ -26913,7 +26915,7 @@ A5</text>
 <wire x1="91.44" y1="109.22" x2="96.52" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$32" class="0">
+<net name="PWM_1" class="0">
 <segment>
 <pinref part="R14" gate="G$1" pin="2"/>
 <wire x1="137.16" y1="109.22" x2="106.68" y2="109.22" width="0.1524" layer="91"/>
@@ -26927,7 +26929,7 @@ A5</text>
 <wire x1="91.44" y1="76.2" x2="96.52" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$30" class="0">
+<net name="PWM_2" class="0">
 <segment>
 <pinref part="R17" gate="G$1" pin="2"/>
 <wire x1="106.68" y1="76.2" x2="111.76" y2="76.2" width="0.1524" layer="91"/>
@@ -26943,7 +26945,7 @@ A5</text>
 <wire x1="91.44" y1="43.18" x2="96.52" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$35" class="0">
+<net name="PWM_3" class="0">
 <segment>
 <pinref part="R18" gate="G$1" pin="2"/>
 <wire x1="106.68" y1="43.18" x2="114.3" y2="43.18" width="0.1524" layer="91"/>
