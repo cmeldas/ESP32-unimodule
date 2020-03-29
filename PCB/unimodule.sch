@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="2" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="2" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,19 +53,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -17893,11 +17893,11 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-42.2" y1="3.5" x2="3.6" y2="3.5" width="0.127" layer="21"/>
 </package>
 <package name="IRM-03">
-<pad name="V-" x="0" y="0" drill="0.6" shape="square"/>
-<pad name="V+" x="5.08" y="0" drill="0.6"/>
-<pad name="NC" x="0" y="17.78" drill="0.6"/>
-<pad name="AC/N" x="25.4" y="17.78" drill="0.6"/>
-<pad name="AC/L" x="30.48" y="17.78" drill="0.6"/>
+<pad name="V-" x="0" y="0" drill="0.8" diameter="1.4" shape="square"/>
+<pad name="V+" x="5.08" y="0" drill="0.8" diameter="1.4"/>
+<pad name="NC" x="0" y="17.78" drill="0.8" diameter="1.4"/>
+<pad name="AC/N" x="25.4" y="17.78" drill="0.8" diameter="1.4"/>
+<pad name="AC/L" x="30.48" y="17.78" drill="0.8" diameter="1.4"/>
 <wire x1="-3.26" y1="20.89" x2="33.74" y2="20.89" width="0.254" layer="21"/>
 <wire x1="33.74" y1="20.89" x2="33.74" y2="-3.11" width="0.254" layer="21"/>
 <wire x1="33.74" y1="-3.11" x2="-3.26" y2="-3.11" width="0.254" layer="21"/>
@@ -18620,6 +18620,47 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="0.4001" y="0" size="0.02" layer="27">&gt;VALUE</text>
 <rectangle x1="-0.3" y1="-0.9" x2="0.3" y2="0.9" layer="29"/>
 </package>
+<package name="TERMINAL">
+<description>Power connector - SL controller</description>
+<circle x="0" y="0" radius="9" width="0" layer="29"/>
+<circle x="0" y="0" radius="3" width="0.4064" layer="51"/>
+<circle x="0" y="0" radius="8" width="0.4064" layer="51"/>
+<pad name="1" x="0" y="0" drill="10.1" diameter="11.6" stop="no" thermals="no"/>
+<pad name="2" x="0" y="6.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="3" x="0" y="7.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="4" x="0" y="8.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="5" x="0" y="9.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="6" x="4.6" y="4.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="7" x="5.3" y="5.3" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="8" x="6" y="6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="9" x="6.7" y="6.7" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="10" x="6.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="11" x="7.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="12" x="8.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="13" x="9.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="14" x="4.6" y="-4.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="15" x="5.3" y="-5.3" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="16" x="6" y="-6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="17" x="6.7" y="-6.7" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="18" x="0" y="-6.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="19" x="0" y="-7.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="20" x="0" y="-8.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="21" x="0" y="-9.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="22" x="-4.6" y="-4.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="23" x="-5.3" y="-5.3" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="24" x="-6" y="-6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="25" x="-6.7" y="-6.7" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="26" x="-6.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="27" x="-7.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="28" x="-8.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="29" x="-9.6" y="0" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="30" x="-4.6" y="4.6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="31" x="-5.3" y="5.3" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="32" x="-6" y="6" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<pad name="33" x="-6.7" y="6.7" drill="0.6" diameter="0.9" shape="octagon" stop="no" thermals="no"/>
+<text x="-4.7" y="10.6" size="1.778" layer="25">&gt;NAME</text>
+<text x="-4.6" y="-12.6" size="1.778" layer="27">&gt;VALUE</text>
+</package>
 </packages>
 <symbols>
 <symbol name="FIDUCIAL">
@@ -18723,7 +18764,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </device>
 <device name="DOUBLESPACER-MAIN" package="DOUBLESPACER-MAIN">
 <connects>
-<connect gate="G$1" pin="P" pad="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"/>
+<connect gate="G$1" pin="P" pad="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -18772,6 +18813,14 @@ In this library the device names are the same as the pin names of the symbols, t
 <device name="6,2-4,1" package="6,2-4,1_BATTERY">
 <connects>
 <connect gate="G$1" pin="P" pad="1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="TERMINAL" package="TERMINAL">
+<connects>
+<connect gate="G$1" pin="P" pad="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33"/>
 </connects>
 <technologies>
 <technology name=""/>
